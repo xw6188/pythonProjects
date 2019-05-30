@@ -1,6 +1,6 @@
 使用JD API入口编写一个命令行工具：jdalert JID, JID, ... 
 
-打印京东网站上相应的产品价格并发送email给hazel@juvaleglobal.com
+打印京东网站上相应的产品价格并发送email给xw6188@163.com
 API入口：http://p.3.cn/prices/mgets?skuIds=JID&type=1， 
 商品ID这么获取: http://item.jd.com/18315090316.html, 
 返回的结果是[{"op":"1599.00","m":"2599.00","id":"J_18315090316","p":"1269.00"}] 
